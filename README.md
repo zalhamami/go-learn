@@ -1,2 +1,2 @@
-# go-struct
-A project for learning data structure in Go
+# go-learn
+A project for learning Go language
