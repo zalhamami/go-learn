@@ -1,0 +1,3 @@
+Struct is a value type
+Struct key doesn't support indexing
+Struct is similar type to hash, object and dict.
