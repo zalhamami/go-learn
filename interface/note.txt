@@ -1,0 +1,3 @@
+Interface is used to dynamicly retrieve type of data to proceed
+We used interface to create a set of function for any type of data
+We don't have an access to create value in interface type
