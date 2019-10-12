@@ -1,0 +1,4 @@
+Map is a reference type
+Map key is support indexing
+Map is similar type to hash, object and dict like a struct.
+But map has only provide the same type of data (for key and value)
