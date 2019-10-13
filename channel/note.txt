@@ -1,0 +1,3 @@
+Http request is sequence, channel turns it into parallel
+Go routine is engine that execute our code per line.
+Channel is use an additional go routine to make it parallel
